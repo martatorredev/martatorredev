@@ -1,7 +1,8 @@
 ### Hi, I'm Marta 👋
 
-Fullstack developer specialized in WordPress and APPS <img alt="preview badge" src="https://img.shields.io/twitter/follow/martatorredev?style=social">
+Fullstack developer specialized in WordPress and APPS 
 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ## Tecnologías
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
