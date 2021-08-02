@@ -2,7 +2,7 @@
 
 Fullstack developer specialized in WordPress and APPS 
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+<a href="https://twitter.com/martatorredev" ><img src="https://img.shields.io/twitter/follow/martatorredev.svg?style=social" /> </a>
 ## Tecnologías
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
