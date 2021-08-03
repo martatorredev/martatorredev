@@ -4,6 +4,7 @@ Fullstack developer specialized in WordPress and APPS
 
 ## Tecnologías
 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=plastic&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)
