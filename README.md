@@ -7,11 +7,11 @@ Fullstack developer specialized in WordPress and APPS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=plastic&logo=wordpress&logoColor=white)
 ![PrestaShop](https://img.shields.io/badge/-PrestaShop-DF0067?style=plastic&logo=prestashop&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=plastic&logo=php&logoColor=white)
-</br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)
+</br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=plastic&logo=ionic&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular)
