@@ -28,6 +28,9 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 
+## 📚 My stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=martatorredev&count_private=true&show_icons=true&include_all_commits=true)
+
 
 <!--
 **MartaTorredev/martatorredev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
