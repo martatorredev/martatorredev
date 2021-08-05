@@ -1,6 +1,7 @@
-### Hi, I'm Marta 👋
+### <h1>  Hey, Soy Marta Torre 👋 </h1>
 
-Fullstack developer specialized in WordPress and APPS 
+<h2> Desarrolladora web full-stack especializada en WordPress y APPS </h2>
+
 
 ## Tecnologías
 
