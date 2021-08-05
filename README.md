@@ -32,7 +32,7 @@ También juego al Animal Crossing en sus ratos libres, como chuletones, croqueta
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 
-## 🎨 Skills Diseño
+## 🎨 Skills Diseño (pero poco)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat&logo=Adobe%20XD&logoColor=white)
 
