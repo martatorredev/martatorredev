@@ -1,6 +1,10 @@
-### <h1>  Hey, Soy Marta Torre 👋 </h1>
+### <h1>  Hey, soy Marta Torre 👋 </h1>
 
 <h2> Desarrolladora web full-stack especializada en WordPress y APPS </h2>
+
+Actualmente trabajo como freelance en mi propia marca martatorre.dev y junto a otras profesionales en OnDesarrollo. Divulgadora sobre las buenas prácticas en desarrollo de software. 
+
+También juego al Animal Crossing en sus ratos libres, como chuletones, croquetas y bebo Estrella Galicia.
 
 <li>Responsable de proyectos de <a href="https://ondesarrollo.com" target="_blank">OnDesarrollo,</a> un estudio de diseño y desarrollo con mucho amor.</li>
 <li>Divulgativa sobre la especialización en los cargos profesionales. Especializarse nos hace mejores profesionales.</li>
