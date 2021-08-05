@@ -4,7 +4,7 @@
 
 
 <li>Freelance y responsable de proyectos de <a href="https://ondesarrollo.com" target="_blank">OnDesarrollo,</a> un estudio de diseño y desarrollo con mucho amor.</li>
-<li>Divulgativa sobre la especialización en los cargos profesionales. Especializarse nos hace mejores profesionales.</li>
+<li>Divulgación sobre la especialización en los cargos profesionales. Especializarse nos hace mejores profesionales.</li>
 <li>Fiel defensora del software libre, del GPL y de los estándares de desarrollo de software.</li>
 <li>Co-fundadora de <a href="https://wpfem.org" target="_blank">WPFem,</a> proyecto para ayudar a aumentar la participación de mujeres en la Comunidad de WordPress España.</li>
 <li>Co-organizadora de la Meetup WordPress Huelva, donde intentamos promover el uso de WordPress y el software libre.</li>
