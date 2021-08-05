@@ -11,7 +11,7 @@
 <li>Participo cuando puedo en la comunidad de WordPress España, ayudando en los foros de soporte, dando charlas en meetups y WordCamps y alguna vez ayudo en traducciones.</li>
 <li>Orgullosa y reinvindicativa sobre el papel de la mujer en el mundo del desarrollo.</li> </br>
 
-También juego al Animal Crossing en sus ratos libres, como chuletones, croquetas y bebo Estrella Galicia.
+También juego al Animal Crossing en mis ratos libres, como chuletones, croquetas y bebo Estrella Galicia 🍻.
 
 ## 💻 Tecnologías
 
