@@ -28,6 +28,10 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 
+## 🎨 Design Skills
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat&logo=Adobe%20XD&logoColor=white)
+
 ## 📚 My stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=martatorredev&count_private=true&show_icons=true&include_all_commits=true)
 
