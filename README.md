@@ -2,10 +2,10 @@
 
 <h2> Desarrolladora web full-stack especializada en WordPress y APPS </h2>
 
-<li>Responsable de proyectos de OnDesarrollo, un estudio de diseño y desarrollo con mucho amor.</li>
+<li>Responsable de proyectos de <a href="https://ondesarrollo.com" target="_blank">OnDesarrollo,</a> un estudio de diseño y desarrollo con mucho amor.</li>
 <li>Divulgativa sobre la especialización en los cargos profesionales. Especializarse nos hace mejores profesionales.</li>
 <li>Fiel defensora del software libre, del GPL y de los estándares de desarrollo de software.</li>
-<li>Co-fundadora de WPFem, proyecto para ayudar a aumentar la participación de mujeres en la Comunidad de WordPress España.</li>
+<li>Co-fundadora de <a href="https://wpfem.org" target="_blank">WPFem,</a> proyecto para ayudar a aumentar la participación de mujeres en la Comunidad de WordPress España.</li>
 <li>Co-organizadora de la Meetup WordPress Huelva, donde intentamos promover el uso de WordPress y el software libre.</li>
 <li>Participo cuando puedo en la comunidad de WordPress España, ayudando en los foros de soporte, dando charlas en meetups y WordCamps y alguna vez ayudo en traducciones.</li>
 <li>Orgullosa y reinvindicativa sobre el papel de la mujer en el mundo del desarrollo.</li>
