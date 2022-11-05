@@ -3,13 +3,14 @@
 <h2> Desarrolladora web full-stack especializada en WordPress y APPS </h2>
 
 
-<li>Freelance en mi propio proyecto <a href="https://martatorre.dev" target="_blank">martatorre.dev</a> desarrollando proyectos a medida, y en <a href="https://ondesarrollo.com" target="_blank">OnDesarrollo,</a> en el que colaboro con otras autónomas de otras disciplinas para dar soluciones a pequeñas empresas y autónomos.</li>
+<li>Freelance en mi propio proyecto <a href="https://martatorre.dev" target="_blank">martatorre.dev</a> desarrollando proyectos a medida, y en el que colaboro con otras autónomas de otras disciplinas para dar soluciones a pequeñas empresas y autónomos.</li>
 <li>Divulgación sobre la especialización en los cargos profesionales. Especializarse nos hace mejores profesionales.</li>
 <li>Fiel defensora del software libre, del GPL y de los estándares de desarrollo de software.</li>
 <li>Co-fundadora de <a href="https://wpfem.org" target="_blank">WPFem,</a> proyecto para ayudar a aumentar la participación de mujeres en la Comunidad de WordPress España.</li>
 <li>Co-organizadora de la Meetup WordPress Huelva, donde intentamos promover el uso de WordPress y el software libre.</li>
 <li>Participo cuando puedo en la comunidad de WordPress España, ayudando en los foros de soporte, dando charlas en meetups y WordCamps y alguna vez ayudo en traducciones.</li>
-<li>Orgullosa y reinvindicativa sobre el papel de la mujer en el mundo del desarrollo.</li> 
+<li>Orgullosa y reinvindicativa sobre el papel de la mujer en el mundo del desarrollo.</li>
+<li>Valores éticos en tecnología, que piensa en los usuarios y en las personas que están detrás de la pantalla.</li> 
 <li>También juego al Animal Crossing en mis ratos libres, como chuletones, croquetas y bebo Estrella Galicia 🍻.</li></br>
 
 ## 💻 Tecnologías
