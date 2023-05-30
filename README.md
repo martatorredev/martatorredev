@@ -1,17 +1,17 @@
-### <h1>  Hey, soy Marta Torre 👋 </h1>
+### <h1>  Hey, I'm Marta Torre 👋 </h1>
 
-<h2> Desarrolladora web full-stack especializada en WordPress y APPS </h2>
+<h2> Full-stack web developer specializing in WordPress and APPS </h2>
 
 
-<li>Freelance en mi propio proyecto <a href="https://martatorre.dev" target="_blank">martatorre.dev</a> desarrollando proyectos a medida, y en el que colaboro con otras autónomas de otras disciplinas para dar soluciones a pequeñas empresas y autónomos.</li>
-<li>Divulgación sobre la especialización en los cargos profesionales. Especializarse nos hace mejores profesionales.</li>
-<li>Fiel defensora del software libre, del GPL y de los estándares de desarrollo de software.</li>
-<li>Co-fundadora de <a href="https://wpfem.org" target="_blank">WPFem,</a> proyecto para ayudar a aumentar la participación de mujeres en la Comunidad de WordPress España.</li>
-<li>Co-organizadora de la Meetup WordPress Bilbao, donde intentamos promover el uso de WordPress y el software libre.</li>
-<li>Participo cuando puedo en la comunidad de WordPress España, ayudando en los foros de soporte, dando charlas en meetups y WordCamps y alguna vez ayudo en traducciones.</li>
-<li>Orgullosa y reinvindicativa sobre el papel de la mujer en el mundo del desarrollo.</li>
-<li>Valores éticos en tecnología, que piensa en los usuarios y en las personas que están detrás de la pantalla.</li> 
-<li>También juego al Animal Crossing en mis ratos libres, como chuletones, croquetas y bebo Estrella Galicia 🍻.</li></br>
+<li>Freelance in my own project <a href="https://martatorre.dev" target="_blank">martatorre.dev</a> developing custom projects, and in which I collaborate with other freelancers from other disciplines to provide solutions to small businesses and freelancers.
+<li>Disclosure on specialization in professional positions. Specialization makes us better professionals.
+<li>Loyal advocate of free software, GPL and software development standards.
+<li>Co-founder of <a href="https://wpfem.org" target="_blank">WPFem,</a> a project to help increase the participation of women in the WordPress Community in Spain.</li>
+<li>Co-organizer of the Meetup WordPress Bilbao, where we try to promote the use of WordPress and free software.
+<li>I participate when I can in the WordPress Spain community, helping in the support forums, giving talks in meetups and WordCamps and sometimes I help in translations.</li>
+<li>Proud and vindictive about the role of women in the development world.
+<li>Ethical values in technology, thinking about the users and the people behind the screen.</li> <li>I'm a fan of the game. 
+<li>I also play Animal Crossing in my spare time, eat steaks, croquettes and drink Estrella Galicia 🍻.</li></br>
 
 ## 💻 Tecnologías
 
