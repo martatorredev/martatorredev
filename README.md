@@ -7,7 +7,7 @@
 <li>Disclosure on specialization in professional positions. Specialization makes us better professionals.
 <li>Loyal advocate of free software, GPL and software development standards.
 <li>Co-founder of <a href="https://wpfem.org" target="_blank">WPFem,</a> a project to help increase the participation of women in the WordPress Community in Spain.</li>
-<li>Co-organizer of the Meetup WordPress Bilbao, where we try to promote the use of WordPress and free software.
+<li>Organizer of the Meetup WordPress Santanderr, where we try to promote the use of WordPress and free software.
 <li>I participate when I can in the WordPress Spain community, helping in the support forums, giving talks in meetups and WordCamps and sometimes I help in translations.</li>
 <li>Proud and vindictive about the role of women in the development world.
 <li>Ethical values in technology, thinking about the users and the people behind the screen.</li> <li>I'm a fan of the game. 
