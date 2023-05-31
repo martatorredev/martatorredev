@@ -3,14 +3,15 @@
 <h2> Full-stack web developer specializing in WordPress and APPS </h2>
 
 
-<li>Freelance in my own project <a href="https://martatorre.dev" target="_blank">martatorre.dev</a> developing custom projects, and in which I collaborate with other freelancers from other disciplines to provide solutions to small businesses and freelancers.
-<li>Disclosure on specialization in professional positions. Specialization makes us better professionals.
-<li>Loyal advocate of free software, GPL and software development standards.
+<li>Freelance in my own project <a href="https://martatorre.dev" target="_blank">martatorre.dev</a> developing custom projects, and in which I collaborate with other freelancers from other disciplines to provide solutions to small businesses and freelancers.</li>
+<li>Disclosure on specialization in professional positions. Specialization makes us better professionals.</li>
+<li>Loyal advocate of free software, GPL and software development standards.</li>
+<li>Advocate for projects that don't make the world worse, learning what I can about accessibility, sustainability and web privacy.</li>
 <li>Co-founder of <a href="https://wpfem.org" target="_blank">WPFem,</a> a project to help increase the participation of women in the WordPress Community in Spain.</li>
-<li>Organizer of the Meetup WordPress Santanderr, where we try to promote the use of WordPress and free software.
+<li>Organizer of the Meetup WordPress Santander, where we try to promote the use of WordPress and free software.</li>
 <li>I participate when I can in the WordPress Spain community, helping in the support forums, giving talks in meetups and WordCamps and sometimes I help in translations.</li>
-<li>Proud and vindictive about the role of women in the development world.
-<li>Ethical values in technology, thinking about the users and the people behind the screen.</li> <li>I'm a fan of the game. 
+<li>Proud and vindictive about the role of women in the development world.</li>
+<li>Ethical values in technology, thinking about the users and the people behind the screen.</li> <li>I'm a fan of the game. </li>
 <li>I also play Animal Crossing in my spare time, eat steaks, croquettes and drink Estrella Galicia 🍻.</li></br>
 
 ## 💻 Tecnologías
