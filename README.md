@@ -1,6 +1,6 @@
 ### <h1>  Hey, I'm Marta Torre 👋 </h1>
 
-<h2> Full-stack web developer specializing in WordPress and APPS </h2>
+<h2> Fullstack web developer specializing in WordPress and APPS </h2>
 
 
 <li>Freelance in my own project <a href="https://martatorre.dev" target="_blank">martatorre.dev</a> developing custom projects, and in which I collaborate with other freelancers from other disciplines to provide solutions to small businesses and freelancers.</li>
