@@ -36,7 +36,9 @@ I'm a freelance developer at [martatorre.dev](https://martatorre.dev), where I c
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=martatorredev&count_private=true&show_icons=true&include_all_commits=true)
 
 ## 📬 Contact
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/:id)](https://masto.es/@martatorredev)
+📧 For inquiries in English: **hey@martatorre.dev**  
+📧 Para consultas en español: **hola@martatorre.dev**  
+[Follow me on Mastodon](https://masto.es/@martatorredev)
 
 ## 🍻 Fun facts
 When I'm not coding, you can find me playing Animal Crossing, eating croquettes, enjoying a cold Estrella Galicia, or exploring the city on my bike. 🚲😉
