@@ -41,7 +41,7 @@ When I'm not coding, you can find me playing Animal Crossing, eating croquettes,
 ## 📬 Contact
 📧 For inquiries in English: **hey@martatorre.dev**  
 📧 Para consultas en español: **hola@martatorre.dev**  
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109195213492125133?domain=https%3A%2F%2Fmasto.es)  
+
 
 
 
